@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "portfolio"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "portfolio": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "portfolio"
+  ]
+}
